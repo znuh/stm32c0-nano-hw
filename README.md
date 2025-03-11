@@ -1,4 +1,4 @@
-# stm32c0-nano-hw
+# STM32C0-Nano Hardware Design Files
 This is a very simple and cheap STM32C071 board.  
 
 It is largely compatible to ATMega-based "Nano" boards - with 3.3V IOs:  
