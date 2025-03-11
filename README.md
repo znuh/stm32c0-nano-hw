@@ -21,6 +21,9 @@ see <a href="https://znu.nz/c0">znu.nz/c0</a>
 # Demo Firmware
 * <a href="https://github.com/znuh/stm32-ACMtest">USB ACM Console + Blinkenlights</a>
 
+# Note
+If you build this yourself, you must set the **NBOOT_SEL** Bit to **zero** (e.g. via SWD), or you cannot use **BOOT0** to invoke the bootloader during powerup.
+
 # License
 Designed by Benedikt Heinz &lt;hunz at mailbox.org&gt;
 
