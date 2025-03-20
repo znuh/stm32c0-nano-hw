@@ -2,7 +2,7 @@
 This is a very simple and cheap STM32C071 board.  
 
 It is largely compatible to ATMega-based "Nano" boards - with 3.3V IOs:  
-<img src="https://raw.githubusercontent.com/znuh/stm32c0-nano-hw/refs/heads/main/pinouts/pinout.png?token=GHSAT0AAAAAACNEZCTJO7I2YV2K4P6QS3XCZ6QJYEA"/><br/>
+![Image](https://github.com/user-attachments/assets/46c74608-c11a-406d-b8aa-90d4ee6f17ce)
 
 # Features
 * Simple, very low cost (2L, all parts on top of PCB)
